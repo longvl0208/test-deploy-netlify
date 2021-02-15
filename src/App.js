@@ -10,7 +10,7 @@ function App() {
                 <p>
                     Edit <code>src/App.js</code> and save to reload.
                 </p>
-                <h1>Long vl</h1>
+                <h1>Deploy thành công nhưng đéo biết có bị mất phí hay ko</h1>
                 <a
                     className="App-link"
                     href="https://reactjs.org"
